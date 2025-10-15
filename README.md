@@ -1,4 +1,4 @@
-# Google Maps Review Intelligence Suite
+# Google Maps Review Extraction
 
 This repository provides a collection of Python scripts designed to automate the process of collecting, analyzing, and summarizing Google Maps data — including business locations, detailed place information, and customer reviews.  
 It uses **SerpApi** for Google Maps data extraction and **AWS Bedrock (Meta LLaMA 3)** for advanced AI-powered review summarization.
