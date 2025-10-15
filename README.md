@@ -11,8 +11,8 @@ The project consists of three main scripts that together form a complete data wo
 
 | Script | Description | Tools |
 |--------|--------------|-------|
-| `maps_place_reviews_fetcher.py` | Retrieves details and reviews for a single Google Maps location using SerpApi. | SerpApi, Python |
-| `honest_branches_scraper.py` | Searches Google Maps for all “Honest” restaurant branches in Gujarat and exports their details. | SerpApi, Python |
+| `serpapi_place_reviews_collector.py` | Retrieves details and reviews for a single Google Maps location using SerpApi. | SerpApi, Python |
+| `branches_scraper.py` | Searches Google Maps for all “Honest” restaurant branches in Gujarat and exports their details. | SerpApi, Python |
 | `review_summarizer_bedrock.py` | Summarizes large sets of reviews using AWS Bedrock’s Meta LLaMA 3 model. | AWS Bedrock, LLaMA 3, Python |
 
 ---
